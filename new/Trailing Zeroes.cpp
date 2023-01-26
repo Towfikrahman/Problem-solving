@@ -1,8 +1,8 @@
-
-/*1You task is to find minimal natural number N, so that N! contains exactly Q zeroes on the trail in decimal notation.
+You task is to find minimal natural number N, so that N! contains exactly Q zeroes on the trail in decimal notation.
 As you know N! = 1 * 2 * ... * N. For example, 5! = 120, 120 contains one zero on the trail.
 
-InputInput starts with an integer T (≤ 10000), denoting the number of test cases.
+Input
+Input starts with an integer T (≤ 10000), denoting the number of test cases.
 Each case contains an integer Q (1 ≤ Q ≤ 108) in a line.
 
 Output
@@ -15,7 +15,7 @@ Input	         Output
 2               Case 3: impossible
 5
 
-*/
+
 #include <bits/stdc++.h>
 using namespace std;
 
